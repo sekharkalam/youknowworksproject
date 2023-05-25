@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #e4708d;
+    background-size: cover;
+    padding: 20px;
+}
+
+.profile {
+    background-color: #e4708d;
+    margin-left: 20px;
+}
+
+.profile-name {
+    font-size: 15px;
+    padding-left: 30px;
+    color: #032149;
+}
+
+.heading {
+    font-size: 35px;
+    color: #032149;
+    font-weight: 500;
+}
+
+.heading-container {
+    margin-left: 20px;
+
+}
+
+.title2 {
+    font-size: 13px;
+    margin-top: 20px;
+    color: #032149;
+
+}
+
+.director-name {
+    font-size: 15px;
+}
+
+.vertical-line1 {
+    border-left: 6px solid #032149;
+    height: 168px;
+    position: absolute;
+    left: 50%;
+}
+
+.vertical-line2 {
+    border-left: 6px solid #032149;
+    height: 220px;
+    position: absolute;
+    left: 50%;
+}
+
+.list-stylesss {
+    border-radius: 40px;
+    font-size: 70px;
+}
+
+.address {
+    margin-left: 20px;
+    color: #032149;
+}
+
+.horizotal-line-2 {
+    color: #032149;
+    border: solid;
+    width: 80%;
+    margin-right: 10px;
+}
+
+.desing-names {
+    font-size: 13px;
+    padding-top: 10px;
+    color: #032149;
+}
+
+.container-dot {
+    margin-left: 15px;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #032149;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 18px;
+
+
+}
+
+.circular-border {
+    width: 80px;
+    border: solid;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    margin-left: 5px;
+    border-color: #032149;
+    border-width: 4px;
+    padding-top: 13px;
+    padding-bottom: 14px;
+    padding-right: 18px;
+    padding-left: 15px;
+
+}
+
+.circular-border2 {
+    background-color: #032149;
+    width: 90px;
+    border: solid;
+    height: 90px;
+    border-radius: 70px;
+    border-color: #032149;
+    border-width: 4px;
+    padding-top: 13px;
+    padding-bottom: 14px;
+    padding-right: 18px;
+    margin: 10px;
+    padding-left: 20px;
+
+}
+
+
+
+.icon {
+    color: #032149;
+    font-size: 45px;
+
+
+}
+
+.icon2 {
+    color: #e4708d;
+    font-size: 45px;
+    margin-bottom: 25px;
+
+}
+
+.icon-names {
+    font-size: 15px;
+    color: #032149;
+
+}
+
+.year1 {
+    font-size: 15px;
+    color: #032149;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.year2 {
+    font-size: 15px;
+    color: #032149;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.title {
+    font-size: 13px;
+    padding-left: 20px;
+    color: #032149;
+}
+
+.college-heading {
+    font-weight: bold;
+    color: #032149;
+    font-size: 14px;
+    padding-top: 8px;
+}
+
+.college-details {
+    font-size: 12px;
+
+}
+
+.flex-boxes {
+    margin-left: 10px;
+
+}
+
+@media (min-width:600px) {
+    .flex-boxes {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
